@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 
 class PlanetCard extends Component {
   render() {
-    console.log(this.props);
     const { planetName, planetImage } = this.props;
     return (
       <div data-testid="planet-card">
