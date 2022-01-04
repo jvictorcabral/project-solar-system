@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Missions extends Component {
   render() {
-    return <div data-testid="missions"></div>;
+    return <div data-testid="missions">oi</div>;
   }
 }
 
